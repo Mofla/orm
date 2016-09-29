@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2075a3f6-b194-4a7a-8aba-d408a4dd4992" name="Default" comment="" />
+    <list default="true" id="2075a3f6-b194-4a7a-8aba-d408a4dd4992" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_debug_kit_panels" afterPath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_debug_kit_panels" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_debug_kit_requests" afterPath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_debug_kit_requests" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_default_actors" afterPath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_default_actors" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_default_actors_movies" afterPath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_default_actors_movies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_default_categories" afterPath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_default_categories" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_default_categories_movies" afterPath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_default_categories_movies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_default_directors" afterPath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_default_directors" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_default_movies" afterPath="$PROJECT_DIR$/tmp/cache/models/myapp_cake_model_default_movies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/persistent/myapp_cake_core_translations_cake_en__u_s" afterPath="$PROJECT_DIR$/tmp/cache/persistent/myapp_cake_core_translations_cake_en__u_s" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/persistent/myapp_cake_core_translations_debug_kit_en__u_s" afterPath="$PROJECT_DIR$/tmp/cache/persistent/myapp_cake_core_translations_debug_kit_en__u_s" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s" afterPath="$PROJECT_DIR$/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/debug_kit.sqlite" afterPath="$PROJECT_DIR$/tmp/debug_kit.sqlite" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/error.log" afterPath="$PROJECT_DIR$/logs/error.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Controller/ExercicesController.php" afterPath="$PROJECT_DIR$/src/Controller/ExercicesController.php" />
+    </list>
     <ignored path="advanced-orm.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,8 +40,8 @@
       <file leaf-file-name="ExercicesController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Controller/ExercicesController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            <state relative-caret-position="591">
+              <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
               <folding>
                 <element signature="e#33#66#0#PHP" expanded="true" />
               </folding>
@@ -33,17 +49,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="eazy.ctp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="eazy.ctp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Template/Exercices/eazy.ctp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="1602">
               <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="AnswersController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Controller/AnswersController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="29" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eazy.ctp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Template/Answers/eazy.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
+              <folding>
+                <marker date="1475157366956" expanded="true" signature="1355:1564" ph="..." />
+                <marker date="1475157366956" expanded="true" signature="1638:2074" ph="..." />
+                <marker date="1475157366956" expanded="true" signature="1686:1797" ph="..." />
+                <marker date="1475157366956" expanded="true" signature="1842:2051" ph="..." />
+                <marker date="1475157366956" expanded="true" signature="2125:2560" ph="..." />
+                <marker date="1475157366956" expanded="true" signature="2173:2283" ph="..." />
+                <marker date="1475157366956" expanded="true" signature="2328:2537" ph="..." />
+                <marker date="1475157366956" expanded="true" signature="2611:2731" ph="..." />
+                <marker date="1475157366956" expanded="true" signature="2659:2731" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -54,9 +103,10 @@
         <option value="$PROJECT_DIR$/src/Template/Layout/default.ctp" />
         <option value="$PROJECT_DIR$/src/Model/Table/MoviesTable.php" />
         <option value="$PROJECT_DIR$/src/Model/Table/CategoriesMoviesTable.php" />
-        <option value="$PROJECT_DIR$/src/Controller/AnswersController.php" />
-        <option value="$PROJECT_DIR$/src/Controller/ExercicesController.php" />
         <option value="$PROJECT_DIR$/src/Template/Exercices/eazy.ctp" />
+        <option value="$PROJECT_DIR$/src/Controller/ExercicesController.php" />
+        <option value="$PROJECT_DIR$/src/Template/Answers/eazy.ctp" />
+        <option value="$PROJECT_DIR$/src/Controller/AnswersController.php" />
       </list>
     </option>
   </component>
@@ -69,9 +119,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="51" />
-    <option name="y" value="24" />
+    <option name="y" value="-4" />
     <option name="width" value="1549" />
-    <option name="height" value="876" />
+    <option name="height" value="904" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -98,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,7 +234,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
+              <option name="myItemId" value="Template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Answers" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -203,7 +256,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
+              <option name="myItemId" value="Model" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -223,6 +276,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -234,6 +288,10 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Template" />
+      <recent name="$PROJECT_DIR$/src/Controller/Component" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Controller" />
     </key>
@@ -298,24 +356,26 @@
       <updated>1474964710959</updated>
       <workItem from="1474964712628" duration="15576000" />
       <workItem from="1475046038534" duration="19017000" />
-      <workItem from="1475131777924" duration="439000" />
+      <workItem from="1475131777924" duration="2055000" />
+      <workItem from="1475146110355" duration="613000" />
+      <workItem from="1475149422013" duration="3910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35032000" />
+    <option name="totallyTimeSpent" value="41171000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="24" width="1549" height="876" extended-state="7" />
-    <editor active="false" />
+    <frame x="51" y="-4" width="1549" height="904" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25615436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26280773" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249501" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32948717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -344,6 +404,94 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Controller/ExercicesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#33#66#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Exercices/eazy.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1602">
+          <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/AnswersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Answers/eazy.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475157366956" expanded="true" signature="1355:1564" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="1638:2074" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="1686:1797" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="1842:2051" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2125:2560" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2173:2283" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2328:2537" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2611:2731" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2659:2731" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/ExercicesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#33#66#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Exercices/eazy.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1602">
+          <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/AnswersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Answers/eazy.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475157366956" expanded="true" signature="1355:1564" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="1638:2074" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="1686:1797" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="1842:2051" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2125:2560" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2173:2283" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2328:2537" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2611:2731" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2659:2731" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller/ExercicesController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -376,6 +524,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -383,6 +532,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="233" column="39" selection-start-line="233" selection-start-column="39" selection-end-line="233" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -397,6 +547,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -411,6 +562,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -446,9 +598,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="86" />
-          <folding>
-            <element signature="e#33#66#0#PHP" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -466,20 +616,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Exercices/eazy.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1602">
+          <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller/ExercicesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        <state relative-caret-position="591">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
           <folding>
             <element signature="e#33#66#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Template/Exercices/eazy.ctp">
+    <entry file="file://$PROJECT_DIR$/src/Template/Answers/eazy.ctp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+        <state relative-caret-position="231">
+          <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
+          <folding>
+            <marker date="1475157366956" expanded="true" signature="1355:1564" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="1638:2074" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="1686:1797" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="1842:2051" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2125:2560" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2173:2283" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2328:2537" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2611:2731" ph="..." />
+            <marker date="1475157366956" expanded="true" signature="2659:2731" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/AnswersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="29" selection-end-column="54" />
           <folding />
         </state>
       </provider>
